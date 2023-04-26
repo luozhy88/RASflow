@@ -51,3 +51,10 @@ A more detailed tutorial of how to use this workflow can be found here: [Tutoria
 
 ## Evaluation
 RASflow has been evaluated on 4 datasets including two model organisms (human and mouse) and a non-model organism (Atlantic cod). To keep this repository as light as possible, the evaluation of RASflow on real datasets is deposited here: [RASflow_realData](https://git.app.uib.no/Xiaokang.Zhang/rasflow_realdata)
+
+## Note
+fq:  
+*_R2.fastq.gz  
+*_R1.fastq.gz 
+
+
