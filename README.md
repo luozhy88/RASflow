@@ -54,7 +54,9 @@ RASflow has been evaluated on 4 datasets including two model organisms (human an
 
 ## Note
 fq:  
-*_R2.fastq.gz  
-*_R1.fastq.gz 
-
+*_R2.fastq.gz    
+*_R1.fastq.gz   
+将所有git上内容克隆到本地后，再运行。  
+congfig必在configs文件夹中  
+metadata.tsv位置应与configs文件夹同一级别放置  
 
